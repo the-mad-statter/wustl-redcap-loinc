@@ -4131,3 +4131,7 @@ LONC_CODE,DTA_DESC
 56273-6,Grape IgG4-mCnc - Grape IgG4 Ab [Mass/volume] in Serum
 5630-9,Copper RBC-mCnc - Copper [Mass/volume] in Red Blood Cells
 56310-6,Lobster IgG4-mCnc - Lobster IgG4 Ab [Mass/volume] in Serum
+26484-6,Monocytes [#/volume] in Blood
+26485-3,Monocytes/100 leukocytes in Blood
+30180-4,Basophils/100 leukocytes in Blood
+5964-2,Prothrombin time (PT) in Blood by Coagulation assay
